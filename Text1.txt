@@ -1,1 +1,2 @@
-ini adalah test dari perubahan di text1
+ini adalah test dari perubahan di text1 dan ini adalah perubahan di local
+
